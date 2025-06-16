@@ -97,6 +97,10 @@ This repository is extremely useful for:
 Feel free to fork the repo, open **pull requests** and contribute!  
 Let’s grow this resource together 💪.
 
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
 ## 🌟 Let's Connect
 
 I'm passionate about collaborating on innovative projects and sharing knowledge about coding, design, robotics, and AI. Let's build something amazing together!  
